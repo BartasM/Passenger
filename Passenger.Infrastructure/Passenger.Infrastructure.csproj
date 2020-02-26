@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+
+  <PropertyGroup>
+  <AssemblyName>Passenger.Infrastructure</AssemblyName>
+    <TargetFramework>netstandard1.4</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+   <Reference Include="Pessenger.Core" />
+  </ItemGroup>
+</Project>
