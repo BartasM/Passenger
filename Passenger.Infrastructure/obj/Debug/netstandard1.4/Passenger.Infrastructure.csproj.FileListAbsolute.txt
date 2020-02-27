@@ -1,0 +1,8 @@
+E:\github\Passenger\Passenger.Infrastructure\bin\Debug\netstandard1.4\Passenger.Infrastructure.deps.json
+E:\github\Passenger\Passenger.Infrastructure\bin\Debug\netstandard1.4\Passenger.Infrastructure.dll
+E:\github\Passenger\Passenger.Infrastructure\bin\Debug\netstandard1.4\Passenger.Infrastructure.pdb
+E:\github\Passenger\Passenger.Infrastructure\obj\Debug\netstandard1.4\Passenger.Infrastructure.AssemblyInfoInputs.cache
+E:\github\Passenger\Passenger.Infrastructure\obj\Debug\netstandard1.4\Passenger.Infrastructure.AssemblyInfo.cs
+E:\github\Passenger\Passenger.Infrastructure\obj\Debug\netstandard1.4\Passenger.Infrastructure.dll
+E:\github\Passenger\Passenger.Infrastructure\obj\Debug\netstandard1.4\Passenger.Infrastructure.pdb
+E:\github\Passenger\Passenger.Infrastructure\obj\Debug\netstandard1.4\Passenger.Infrastructure.csproj.CoreCompileInputs.cache

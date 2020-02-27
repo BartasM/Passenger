@@ -1,0 +1,9 @@
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard1.4\Passenger.Tests.deps.json
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard1.4\Passenger.Tests.dll
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard1.4\Passenger.Tests.pdb
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard1.4\Passenger.Tests.csprojAssemblyReference.cache
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard1.4\Passenger.Tests.AssemblyInfoInputs.cache
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard1.4\Passenger.Tests.AssemblyInfo.cs
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard1.4\Passenger.Tests.dll
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard1.4\Passenger.Tests.pdb
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard1.4\Passenger.Tests.csproj.CoreCompileInputs.cache

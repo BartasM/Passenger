@@ -1,0 +1,11 @@
+E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.deps.json
+E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.runtimeconfig.json
+E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.runtimeconfig.dev.json
+E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.dll
+E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp1.0\Passenger.Api.pdb
+E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp1.0\Passenger.Api.AssemblyInfoInputs.cache
+E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp1.0\Passenger.Api.AssemblyInfo.cs
+E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp1.0\Passenger.Api.dll
+E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp1.0\Passenger.Api.pdb
+E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp1.0\Passenger.Api.csproj.CoreCompileInputs.cache
+E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp1.0\Passenger.Api.csprojAssemblyReference.cache

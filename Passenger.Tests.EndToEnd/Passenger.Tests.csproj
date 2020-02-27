@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
-
-  <PropertyGroup>
-  <AssemblyName>Passenger.Tests.EndToEnd</AssemblyName>
-    <TargetFramework>netstandard1.4</TargetFramework>
-  </PropertyGroup>
-
-</Project>

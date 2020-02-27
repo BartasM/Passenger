@@ -1,0 +1,8 @@
+E:\github\Passenger\Passenger.Core\bin\Debug\netstandard1.4\Passenger.Core.deps.json
+E:\github\Passenger\Passenger.Core\bin\Debug\netstandard1.4\Passenger.Core.dll
+E:\github\Passenger\Passenger.Core\bin\Debug\netstandard1.4\Passenger.Core.pdb
+E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.AssemblyInfoInputs.cache
+E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.AssemblyInfo.cs
+E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.dll
+E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.pdb
+E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.csproj.CoreCompileInputs.cache

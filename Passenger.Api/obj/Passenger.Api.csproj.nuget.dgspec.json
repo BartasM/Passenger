@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\github\\Passenger\\Passenger.Api\\Passenger.Api.csproj": {}
+  },
+  "projects": {
+    "E:\\github\\Passenger\\Passenger.Api\\Passenger.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\github\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
+        "projectName": "Passenger.Api",
+        "projectPath": "E:\\github\\Passenger\\Passenger.Api\\Passenger.Api.csproj",
+        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
+        "outputPath": "E:\\github\\Passenger\\Passenger.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.Extensions.Logging.Debug": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.5, )",
+              "autoReferenced": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
