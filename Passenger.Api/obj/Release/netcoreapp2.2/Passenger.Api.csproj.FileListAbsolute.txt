@@ -1,0 +1,16 @@
+E:\github\Passenger\Passenger.Api\bin\Release\netcoreapp2.2\Passenger.Api.deps.json
+E:\github\Passenger\Passenger.Api\bin\Release\netcoreapp2.2\Passenger.Api.runtimeconfig.json
+E:\github\Passenger\Passenger.Api\bin\Release\netcoreapp2.2\Passenger.Api.runtimeconfig.dev.json
+E:\github\Passenger\Passenger.Api\bin\Release\netcoreapp2.2\Passenger.Api.dll
+E:\github\Passenger\Passenger.Api\bin\Release\netcoreapp2.2\Passenger.Api.pdb
+E:\github\Passenger\Passenger.Api\bin\Release\netcoreapp2.2\Passenger.Core.dll
+E:\github\Passenger\Passenger.Api\bin\Release\netcoreapp2.2\Passenger.Infrastructure.dll
+E:\github\Passenger\Passenger.Api\bin\Release\netcoreapp2.2\Passenger.Infrastructure.pdb
+E:\github\Passenger\Passenger.Api\bin\Release\netcoreapp2.2\Passenger.Core.pdb
+E:\github\Passenger\Passenger.Api\obj\Release\netcoreapp2.2\Passenger.Api.csprojAssemblyReference.cache
+E:\github\Passenger\Passenger.Api\obj\Release\netcoreapp2.2\Passenger.Api.csproj.CoreCompileInputs.cache
+E:\github\Passenger\Passenger.Api\obj\Release\netcoreapp2.2\Passenger.Api.AssemblyInfoInputs.cache
+E:\github\Passenger\Passenger.Api\obj\Release\netcoreapp2.2\Passenger.Api.AssemblyInfo.cs
+E:\github\Passenger\Passenger.Api\obj\Release\netcoreapp2.2\Passenger.Api.csproj.CopyComplete
+E:\github\Passenger\Passenger.Api\obj\Release\netcoreapp2.2\Passenger.Api.dll
+E:\github\Passenger\Passenger.Api\obj\Release\netcoreapp2.2\Passenger.Api.pdb

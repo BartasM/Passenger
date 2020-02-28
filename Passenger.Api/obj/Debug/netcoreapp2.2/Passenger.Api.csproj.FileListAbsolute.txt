@@ -3,8 +3,6 @@ E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.csproj.C
 E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.AssemblyInfoInputs.cache
 E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.AssemblyInfo.cs
 E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Api.deps.json
-E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Api.runtimeconfig.json
-E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Api.runtimeconfig.dev.json
 E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Api.dll
 E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Api.pdb
 E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Core.dll
@@ -14,3 +12,8 @@ E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Core.pdb
 E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.csproj.CopyComplete
 E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.dll
 E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.pdb
+E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Api.runtimeconfig.json
+E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Api.runtimeconfig.dev.json
+E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.RazorAssemblyInfo.cache
+E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.RazorAssemblyInfo.cs
+E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.RazorTargetAssemblyInfo.cache
