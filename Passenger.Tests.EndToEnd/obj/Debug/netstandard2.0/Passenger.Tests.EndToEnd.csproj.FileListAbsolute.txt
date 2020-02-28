@@ -6,3 +6,4 @@ E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.
 E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.AssemblyInfo.cs
 E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.dll
 E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.pdb
+E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.csprojAssemblyReference.cache
