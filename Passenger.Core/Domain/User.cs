@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Passenger.Core.Domain
 {
-    class User
+    public class User
     {
         public Guid Id { get; protected set; }
         public string Email { get; protected set; }
@@ -19,12 +19,11 @@ namespace Passenger.Core.Domain
 
         }
 
-
         //Validation later
         public User(string email, string username, string password, string salt)
         {
             Id = Guid.NewGuid();
-            Email = email;
+            Email = email.ToLowerInvariant();
             Username = username;
             Password = password;
             Salt = salt;

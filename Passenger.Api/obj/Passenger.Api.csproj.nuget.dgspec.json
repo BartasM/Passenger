@@ -13,21 +13,27 @@
         "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
         "outputPath": "E:\\github\\Passenger\\Passenger.Api\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "netcoreapp1.0"
+          "netcoreapp2.2"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "netcoreapp1.0": {
-            "projectReferences": {}
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+                "projectPath": "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -37,7 +43,7 @@
         }
       },
       "frameworks": {
-        "netcoreapp1.0": {
+        "netcoreapp2.2": {
           "dependencies": {
             "Microsoft.AspNetCore": {
               "target": "Package",
@@ -52,11 +58,125 @@
               "version": "[1.0.2, )"
             },
             "Microsoft.NETCore.App": {
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[1.0.5, )",
+              "version": "[2.2.0, )",
               "autoReferenced": true
             }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+        "projectName": "Passenger.Core",
+        "projectPath": "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
+        "outputPath": "E:\\github\\Passenger\\Passenger.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
           }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+        "projectName": "Passenger.Infrastructure",
+        "projectPath": "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
+        "outputPath": "E:\\github\\Passenger\\Passenger.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+                "projectPath": "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
         }
       }
     }

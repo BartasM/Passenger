@@ -6,3 +6,4 @@ E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.Assem
 E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.dll
 E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.pdb
 E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.csproj.CoreCompileInputs.cache
+E:\github\Passenger\Passenger.Core\obj\Debug\netstandard1.4\Passenger.Core.csprojAssemblyReference.cache

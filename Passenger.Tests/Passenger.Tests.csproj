@@ -1,15 +1,16 @@
-<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
+﻿<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="15.0">
 
   <PropertyGroup>
   <AssemblyName>Passenger.Tests</AssemblyName>
-    <TargetFramework>netstandard1.4</TargetFramework>
+    <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="Passenger.Core" />
-    <Reference Include="Passenger.Infrastructure" />
     <PackageReference Include="nunit" Version="3.12.0" />
-    <PackageReference Include="NUnit3TestAdapter" Version="3.16.1" />
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Passenger.Core\Passenger.Core.csproj" />
+    <ProjectReference Include="..\Passenger.Infrastructure\Passenger.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

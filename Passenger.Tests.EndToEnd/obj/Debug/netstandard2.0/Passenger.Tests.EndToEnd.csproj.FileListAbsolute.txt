@@ -1,0 +1,9 @@
+E:\github\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netstandard2.0\Passenger.Tests.EndToEnd.deps.json
+E:\github\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netstandard2.0\Passenger.Tests.EndToEnd.dll
+E:\github\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netstandard2.0\Passenger.Tests.EndToEnd.pdb
+E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.csprojAssemblyReference.cache
+E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.csproj.CoreCompileInputs.cache
+E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.AssemblyInfoInputs.cache
+E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.AssemblyInfo.cs
+E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.dll
+E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.pdb

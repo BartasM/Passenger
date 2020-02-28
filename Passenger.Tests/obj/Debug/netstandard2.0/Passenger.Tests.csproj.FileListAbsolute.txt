@@ -1,0 +1,14 @@
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.csprojAssemblyReference.cache
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.csproj.CoreCompileInputs.cache
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.AssemblyInfoInputs.cache
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.AssemblyInfo.cs
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Tests.deps.json
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Tests.dll
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Tests.pdb
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Core.dll
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Core.pdb
+E:\github\Passenger\Passenger.Tests\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.csproj.CopyComplete
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.dll
+E:\github\Passenger\Passenger.Tests\obj\Debug\netstandard2.0\Passenger.Tests.pdb
