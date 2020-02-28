@@ -7,7 +7,7 @@ using System.Text;
 
 namespace Passenger.Infrastructure.Services
 {
-    class UserService : IUserService
+    public class UserService : IUserService
     {
         private readonly IUserRepository _userRepository; 
 

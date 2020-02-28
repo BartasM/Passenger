@@ -17,14 +17,9 @@ namespace Passenger.Api.Controllers
         {
             _userService = userService;
         }
-        
-        [HttpGet("{id}")]
-        public string Get(int id)
-        {
-            return "value";
-        }
 
-        
-       
+        [HttpGet("{email}")]
+        public UserDto Get(string email)
+        => _userService.Get(email);
     }
 }
