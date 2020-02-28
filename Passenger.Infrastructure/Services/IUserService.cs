@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Passenger.Infrastructure.Services
 {
-    interface IUserService
+    public interface IUserService
     {
         UserDto Get(string email);
         
