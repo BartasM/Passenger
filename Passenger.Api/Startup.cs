@@ -10,6 +10,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Passenger.Core.Repositories;
 using Passenger.Infrastructure;
+using Passenger.Infrastructure.Mappers;
 using Passenger.Infrastructure.Services;
 
 namespace Passenger.Api
@@ -29,6 +30,7 @@ namespace Passenger.Api
             
             services.AddScoped<IUserRepository, InMemoryUserRepository>();
             services.AddScoped<IUserService, UserService>();
+            services.AddSingleton(AutoMapperConfig.Initialize());
             services.AddMvc();
         }
 

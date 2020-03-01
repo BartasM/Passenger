@@ -23,7 +23,6 @@ namespace Passenger.Infrastructure
         public User Get(Guid id)
            => _users.Single(x => x.Id == id);
 
-
         public User Get(string email)
             => _users.Single(x => x.Email == email.ToLowerInvariant());
 
