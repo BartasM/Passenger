@@ -23,7 +23,7 @@ namespace Passenger.Infrastructure.Services
         {
             var user = _userRepository.Get(email);
 
-           // return _mapper.Map<User, UserDto>(user);
+            return _mapper.Map<User, UserDto>(user);
 
             //return new UserDto
             //{
