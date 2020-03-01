@@ -7,3 +7,11 @@ E:\github\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.Assem
 E:\github\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.dll
 E:\github\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.pdb
 E:\github\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.csprojAssemblyReference.cache
+E:\github\BartasM\Passenger\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.deps.json
+E:\github\BartasM\Passenger\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.dll
+E:\github\BartasM\Passenger\Passenger.Core\bin\Debug\netstandard2.0\Passenger.Core.pdb
+E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.AssemblyInfoInputs.cache
+E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.AssemblyInfo.cs
+E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.dll
+E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.pdb
+E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.csprojAssemblyReference.cache

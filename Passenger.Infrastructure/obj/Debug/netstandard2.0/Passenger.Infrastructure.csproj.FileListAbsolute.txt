@@ -10,3 +10,14 @@ E:\github\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.
 E:\github\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csproj.CopyComplete
 E:\github\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.dll
 E:\github\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+E:\github\BartasM\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.deps.json
+E:\github\BartasM\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.dll
+E:\github\BartasM\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Infrastructure.pdb
+E:\github\BartasM\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.dll
+E:\github\BartasM\Passenger\Passenger.Infrastructure\bin\Debug\netstandard2.0\Passenger.Core.pdb
+E:\github\BartasM\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csprojAssemblyReference.cache
+E:\github\BartasM\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfoInputs.cache
+E:\github\BartasM\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.AssemblyInfo.cs
+E:\github\BartasM\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.csproj.CopyComplete
+E:\github\BartasM\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.dll
+E:\github\BartasM\Passenger\Passenger.Infrastructure\obj\Debug\netstandard2.0\Passenger.Infrastructure.pdb

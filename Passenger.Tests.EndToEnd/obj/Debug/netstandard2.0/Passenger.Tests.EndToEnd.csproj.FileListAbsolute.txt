@@ -7,3 +7,11 @@ E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.
 E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.dll
 E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.pdb
 E:\github\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.csprojAssemblyReference.cache
+E:\github\BartasM\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netstandard2.0\Passenger.Tests.EndToEnd.deps.json
+E:\github\BartasM\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netstandard2.0\Passenger.Tests.EndToEnd.dll
+E:\github\BartasM\Passenger\Passenger.Tests.EndToEnd\bin\Debug\netstandard2.0\Passenger.Tests.EndToEnd.pdb
+E:\github\BartasM\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.csprojAssemblyReference.cache
+E:\github\BartasM\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.AssemblyInfoInputs.cache
+E:\github\BartasM\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.AssemblyInfo.cs
+E:\github\BartasM\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.dll
+E:\github\BartasM\Passenger\Passenger.Tests.EndToEnd\obj\Debug\netstandard2.0\Passenger.Tests.EndToEnd.pdb

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace Passenger.Core.Domain
 {
-   class Passenger
+   public class Passenger
     {
         public Guid Id { get; protected set; }
         public Guid UserId { get; protected set; }
