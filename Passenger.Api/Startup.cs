@@ -11,6 +11,7 @@ using Microsoft.Extensions.Logging;
 using Passenger.Core.Repositories;
 using Passenger.Infrastructure;
 using Passenger.Infrastructure.Mappers;
+using Passenger.Infrastructure.Repositories;
 using Passenger.Infrastructure.Services;
 
 namespace Passenger.Api

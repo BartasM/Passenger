@@ -13,7 +13,7 @@ namespace Passenger.Api.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "TEST1", "TEST2" };
+            return new string[] { "value1", "value2" };
         }
 
         // GET api/values/5
