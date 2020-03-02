@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\github\\BartasM\\Passenger\\Passenger.Tests.EndToEnd\\Passenger.Tests.EndToEnd.csproj": {}
+    "E:\\github\\Passenger\\Passenger.Tests.EndToEnd\\Passenger.Tests.EndToEnd.csproj": {}
   },
   "projects": {
-    "E:\\github\\BartasM\\Passenger\\Passenger.Tests.EndToEnd\\Passenger.Tests.EndToEnd.csproj": {
+    "E:\\github\\Passenger\\Passenger.Tests.EndToEnd\\Passenger.Tests.EndToEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\BartasM\\Passenger\\Passenger.Tests.EndToEnd\\Passenger.Tests.EndToEnd.csproj",
+        "projectUniqueName": "E:\\github\\Passenger\\Passenger.Tests.EndToEnd\\Passenger.Tests.EndToEnd.csproj",
         "projectName": "Passenger.Tests.EndToEnd",
-        "projectPath": "E:\\github\\BartasM\\Passenger\\Passenger.Tests.EndToEnd\\Passenger.Tests.EndToEnd.csproj",
-        "packagesPath": "C:\\Users\\Ven\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\BartasM\\Passenger\\Passenger.Tests.EndToEnd\\obj\\",
+        "projectPath": "E:\\github\\Passenger\\Passenger.Tests.EndToEnd\\Passenger.Tests.EndToEnd.csproj",
+        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
+        "outputPath": "E:\\github\\Passenger\\Passenger.Tests.EndToEnd\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ven\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,16 +49,10 @@
             }
           },
           "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
+            "net461"
           ],
           "assetTargetFallback": true,
-          "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "warn": true
         }
       }
     }
