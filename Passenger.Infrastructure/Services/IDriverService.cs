@@ -1,5 +1,5 @@
-﻿using Passenger.Infrastructure.DTO;
-using System;
+﻿using System;
+using Passenger.Infrastructure.DTO;
 
 namespace Passenger.Infrastructure.Services
 {

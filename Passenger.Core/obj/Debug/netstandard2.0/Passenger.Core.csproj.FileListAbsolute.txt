@@ -14,4 +14,3 @@ E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Co
 E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.AssemblyInfo.cs
 E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.dll
 E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.pdb
-E:\github\BartasM\Passenger\Passenger.Core\obj\Debug\netstandard2.0\Passenger.Core.csprojAssemblyReference.cache

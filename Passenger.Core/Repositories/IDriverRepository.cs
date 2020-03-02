@@ -1,7 +1,6 @@
 ﻿using Passenger.Core.Domain;
 using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Passenger.Core.Repositories
 {
@@ -11,6 +10,5 @@ namespace Passenger.Core.Repositories
         IEnumerable<Driver> GetAll();
         void Add(Driver driver);
         void Update(Driver driver);
-
     }
 }

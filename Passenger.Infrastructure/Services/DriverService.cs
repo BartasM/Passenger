@@ -1,11 +1,12 @@
-﻿using Passenger.Core.Repositories;
+﻿using System;
+using Passenger.Core.Repositories;
 using Passenger.Infrastructure.DTO;
-using System;
 
 namespace Passenger.Infrastructure.Services
 {
     public class DriverService : IDriverService
     {
+
         private readonly IDriverRepository _driverRepository;
 
         public DriverService(IDriverRepository driverRepository)
@@ -19,13 +20,8 @@ namespace Passenger.Infrastructure.Services
 
             return new DriverDto
             {
-                //id
+                //id 
             };
-        }
-
-        DriverDto IDriverService.Get(Guid userId)
-        {
-            throw new NotImplementedException();
         }
     }
 }
