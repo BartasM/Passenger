@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Passenger.Core.Domain
+﻿namespace Passenger.Core.Domain
 {
-    class Node
+    public class Node
     {
         public string Adress { get; protected set; }
         public double Longitude { get; protected set; }

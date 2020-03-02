@@ -17,3 +17,10 @@ E:\github\Passenger\Passenger.Api\bin\Debug\netcoreapp2.2\Passenger.Api.runtimec
 E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.RazorAssemblyInfo.cache
 E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.RazorAssemblyInfo.cs
 E:\github\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.RazorTargetAssemblyInfo.cache
+E:\github\BartasM\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.csprojAssemblyReference.cache
+E:\github\BartasM\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.RazorAssemblyInfo.cache
+E:\github\BartasM\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.RazorAssemblyInfo.cs
+E:\github\BartasM\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.AssemblyInfoInputs.cache
+E:\github\BartasM\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.AssemblyInfo.cs
+E:\github\BartasM\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.dll
+E:\github\BartasM\Passenger\Passenger.Api\obj\Debug\netcoreapp2.2\Passenger.Api.pdb

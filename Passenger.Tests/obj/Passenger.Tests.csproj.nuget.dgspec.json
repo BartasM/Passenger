@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "E:\\github\\Passenger\\Passenger.Tests\\Passenger.Tests.csproj": {}
+    "E:\\github\\BartasM\\Passenger\\Passenger.Tests\\Passenger.Tests.csproj": {}
   },
   "projects": {
-    "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+    "E:\\github\\BartasM\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+        "projectUniqueName": "E:\\github\\BartasM\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
         "projectName": "Passenger.Core",
-        "projectPath": "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
-        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\Passenger\\Passenger.Core\\obj\\",
+        "projectPath": "E:\\github\\BartasM\\Passenger\\Passenger.Core\\Passenger.Core.csproj",
+        "packagesPath": "C:\\Users\\Ven\\.nuget\\packages\\",
+        "outputPath": "E:\\github\\BartasM\\Passenger\\Passenger.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ven\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,27 +49,33 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+    "E:\\github\\BartasM\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+        "projectUniqueName": "E:\\github\\BartasM\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
         "projectName": "Passenger.Infrastructure",
-        "projectPath": "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\Passenger\\Passenger.Infrastructure\\obj\\",
+        "projectPath": "E:\\github\\BartasM\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Ven\\.nuget\\packages\\",
+        "outputPath": "E:\\github\\BartasM\\Passenger\\Passenger.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ven\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +88,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
-                "projectPath": "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
+              "E:\\github\\BartasM\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+                "projectPath": "E:\\github\\BartasM\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
               }
             }
           }
@@ -97,6 +103,10 @@
       "frameworks": {
         "netstandard2.0": {
           "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
             "NETStandard.Library": {
               "suppressParent": "All",
               "target": "Package",
@@ -105,27 +115,33 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\github\\Passenger\\Passenger.Tests\\Passenger.Tests.csproj": {
+    "E:\\github\\BartasM\\Passenger\\Passenger.Tests\\Passenger.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\github\\Passenger\\Passenger.Tests\\Passenger.Tests.csproj",
+        "projectUniqueName": "E:\\github\\BartasM\\Passenger\\Passenger.Tests\\Passenger.Tests.csproj",
         "projectName": "Passenger.Tests",
-        "projectPath": "E:\\github\\Passenger\\Passenger.Tests\\Passenger.Tests.csproj",
-        "packagesPath": "C:\\Users\\Kasia\\.nuget\\packages\\",
-        "outputPath": "E:\\github\\Passenger\\Passenger.Tests\\obj\\",
+        "projectPath": "E:\\github\\BartasM\\Passenger\\Passenger.Tests\\Passenger.Tests.csproj",
+        "packagesPath": "C:\\Users\\Ven\\.nuget\\packages\\",
+        "outputPath": "E:\\github\\BartasM\\Passenger\\Passenger.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Kasia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ven\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -138,11 +154,11 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
-                "projectPath": "E:\\github\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
+              "E:\\github\\BartasM\\Passenger\\Passenger.Core\\Passenger.Core.csproj": {
+                "projectPath": "E:\\github\\BartasM\\Passenger\\Passenger.Core\\Passenger.Core.csproj"
               },
-              "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
-                "projectPath": "E:\\github\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
+              "E:\\github\\BartasM\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj": {
+                "projectPath": "E:\\github\\BartasM\\Passenger\\Passenger.Infrastructure\\Passenger.Infrastructure.csproj"
               }
             }
           }
@@ -172,10 +188,16 @@
             }
           },
           "imports": [
-            "net461"
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
           ],
           "assetTargetFallback": true,
-          "warn": true
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

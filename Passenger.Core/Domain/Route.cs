@@ -1,10 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Passenger.Core.Domain
 {
-    class Route
+    public class Route
     {
         public Guid Id { get; protected set; }
         public Node StartNode {get; protected set; }
